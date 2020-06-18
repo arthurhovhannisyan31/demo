@@ -1,9 +1,15 @@
 {
-  "hotels": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "posts": [
+    { "id": 0, "title": "hello" },
+    { "id": 1, "title": "hello" },
+    { "id": 2, "title": "hello" },
+    { "id": 3, "title": "hello" },
+    { "id": 4, "title": "hello" },
+    { "id": 5, "title": "hello" },
+    { "id": 6, "title": "hello" },
+    { "id": 7, "title": "hello" },
+    { "id": 8, "title": "hello" },
+    { "id": 9, "title": "hello" }
   ],
   "profile": {
     "name": "typicode"
