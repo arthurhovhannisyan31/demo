@@ -1,6 +1,5 @@
 {
   "posts": [
-    { "id": 0, "title": "hello" },
     { "id": 1, "title": "hello" },
     { "id": 2, "title": "hello" },
     { "id": 3, "title": "hello" },
